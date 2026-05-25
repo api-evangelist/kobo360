@@ -1,0 +1,77 @@
+aid: kobo360
+name: Kobo360
+description: >-
+  Kobo360 is a Nigerian-founded, pan-African B2B digital freight marketplace
+  and logistics technology platform headquartered in Lagos, with operations
+  across Nigeria, Ghana, Kenya, Togo, Uganda, and other African countries.
+  Founded in 2017 by Obi Ozor and Ife Oyedele II, Kobo360 operates an
+  "Uber for trucks" long-haul logistics model that matches cargo owners and
+  enterprise shippers with truck owners and drivers through a single
+  digital ecosystem. The company runs the Global Logistics Operating System
+  (G-LOS), an enterprise-grade logistics SaaS / digital freight forwarding
+  platform that provides shipper dashboards, end-to-end shipment visibility,
+  driver and truck ratings, embedded credit and working-capital products for
+  carriers, and route and load optimization across the Kobo network of
+  registered drivers and trucks. Kobo360 serves large FMCG, manufacturing,
+  and commodities customers including Dangote, DHL, Honeywell, Olam, and
+  Unilever, and has raised funding from investors such as Goldman Sachs,
+  IFC, TLcom Capital, and Western Asset. Kobo360 does not publish a public
+  developer API, SDK, or open developer portal; integrations with shippers
+  and partners are delivered through enterprise onboarding rather than a
+  self-service API program.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Logistics
+  - Freight
+  - Trucking
+  - Digital Freight Marketplace
+  - Supply Chain
+  - Transportation
+  - B2B Marketplace
+  - Long Haul
+  - Africa
+  - Nigeria
+  - Pan-African
+  - Fleet Management
+  - Shipper Platform
+  - Carrier Platform
+  - G-LOS
+  - Logistics SaaS
+  - Freight Visibility
+  - Embedded Finance
+url: https://raw.githubusercontent.com/api-evangelist/kobo360/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.kobo360.com
+  - type: About
+    url: https://www.kobo360.com/about/
+  - type: Services
+    url: https://www.kobo360.com/services/
+  - type: Shippers
+    url: https://www.kobo360.com/shippers/
+  - type: Partners
+    url: https://www.kobo360.com/partners/
+  - type: Careers
+    url: https://www.kobo360.com/careers/
+  - type: Contact
+    url: https://www.kobo360.com/contact/
+  - type: GitHub
+    url: https://github.com/kobo360
+  - type: LinkedIn
+    url: https://ng.linkedin.com/company/kobo360
+  - type: Twitter
+    url: https://twitter.com/kobo360africa
+  - type: Facebook
+    url: https://www.facebook.com/Kobo360Africa/
+  - type: Instagram
+    url: https://www.instagram.com/kobo360_africa/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
